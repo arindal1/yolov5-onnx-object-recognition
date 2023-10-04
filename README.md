@@ -1,10 +1,16 @@
-<div class="center-text">
+  <style>
+    .header {
+      text-align: center;
+    }
+  </style>
+<div class="header">
    <h1>YOLOv5 Object Detection with OpenCV</h1><br>
    <a href="https://hacktoberfest.com/" target="_blank">
       <img src="images/hack.jpg"  width="80px"></a> <a href="https://github.com/arindal1" target="_blank">
       <img src="images/git.jpg"  width="80px"></a> <a href="https://twitter.com/arindal_17" target="_blank">
       <img src="images/x.jpg"  width="80px"></a>
 </div>
+
 
 This repository contains a project demonstrating object detection using the YOLOv5 model, integrated with OpenCV for image processing and Streamlit for a user-friendly interface. 
 
