@@ -1,6 +1,6 @@
 # PyTorch and ONNX Models
 
-### We download the YOLOv5 models from [Ultalytics](https://github.com/ultralytics/yolov5) than convert them to  Open Neural Network Exchange format.
+### We download the YOLOv5 models from [Ultalytics](https://github.com/ultralytics/yolov5) than converted them to  Open Neural Network Exchange format.
 
 ## Why convert the PyTorch models to ONNX?
 
