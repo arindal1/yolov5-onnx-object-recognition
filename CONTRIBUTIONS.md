@@ -75,6 +75,10 @@ Adhere to the project's coding style and guidelines. If there are specific guide
 
 Ensure that your contributions are properly tested. If the project has existing tests, run them to confirm that your changes haven't broken anything.
 
+## Structure
+
+### For a proper PR Structure please refer [PULL_REQUEST_TEMPLATE](.github/PULL_REQUEST_TEMPLATE.md).
+
 ---
 
 ### Thank you for contributing!
