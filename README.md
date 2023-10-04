@@ -7,7 +7,7 @@
 </div>
 
 
-This repository contains a project demonstrating object detection using the YOLOv5 model, integrated with OpenCV for image processing and Streamlit for a user-friendly interface. 
+This repository contains a project demonstrating object detection using the YOLOv5 model, integrated with OpenCV for image processing and Streamlit for a user-friendly interface. It is `hacktober-accepted`, so you can make your Hacktober OpenSource contributions here. Read [CONTRIBUTIONS.md](CONTRIBUTIONS.md) for more info about contributing.
 
 ## Overview
 
@@ -62,6 +62,8 @@ Modify the script to work with your own images.
 - Understand the COCO Dataset at: [ABOUT_COCO.md](config/ABOUT_COCO.md)
 - About **Hacktober Fest 2023** at: [HACKTOBER_2023.md](config/HACKTOBER_2023.md)
 
+
+
 ## Acknowledgments
 
 This project uses the YOLOv5 model and the COCO dataset.
@@ -69,7 +71,8 @@ The model weights in ONNX format were obtained from the official YOLOv5 reposito
 
 ## Contributions
 
-Contributions to this repo is very welcome. This repository is `hactober-accepted`, any contributions made will be counted as a part of **Hactober Fest 2023** if you're participating.
+Contributions to this repo are very welcome. This repository is `hacktober-accepted`, any contributions made will be counted as a part of **Hacktober Fest 2023** if you're participating.
+Read **Hacktober Fest [Guildelines](https://hacktoberfest.com/participation/#pr-mr-details)** and [CONTRIBUTIONS.md](CONTRIBUTIONS.md) before making Pull Requests, to make sure you are following Hacktober's PR Rules.
 Any issues, features or changes you want to add, fork this repo and make your pull requests accordingly.<br>
 See the [open issues](https://github.com/yolov5-onnx-object-recognition/issues) for a list of proposed features (and known issues) or add your own and link them to your Pull Request. <br>
 
