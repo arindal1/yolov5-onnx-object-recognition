@@ -16,7 +16,7 @@ Describe the changes you've made. Include any context or related issues.
 
 ## Checklist
 
-- [ ] I have followed the [contributing guidelines](yolov5-onnx-object-recognition/CONTRIBUTING.md).
+- [ ] I have followed the [contributing guidelines](https://github.com/arindal1/yolov5-onnx-object-recognition/blob/main/CONTRIBUTIONS.md).
 - [ ] I have checked for any existing related issues and linked them in the description.
 - [ ] I have made my changes in a new branch.
 - [ ] My code follows the project's coding style and guidelines.
