@@ -70,11 +70,11 @@ The model weights in ONNX format were obtained from the official YOLOv5 reposito
 
 ## Contributions
 
-Contributions to this repo is very welcome. This repository is `hactober-accepted`, any contributions made will be counted as a part of **Hactober Fest 2023** if you're participating.
+Contributions to this repo are very welcome. This repository is `hacktober-accepted`, any contributions made will be counted as a part of **Hactober Fest 2023** if you're participating.
 Any issues, features or changes you want to add, fork this repo and make your pull requests accordingly.<br>
 See the [open issues](https://github.com/yolov5-onnx-object-recognition/issues) for a list of proposed features (and known issues) or add your own and link them to your Pull Request. <br>
 
-**For more infomation about contributions, please refer to [CONTRIBUTIONS.md](CONTRIBUTIONS.md).**
+**For more information about contributions, please refer to [CONTRIBUTIONS.md](CONTRIBUTIONS.md).**
 
 ## Contact
 
