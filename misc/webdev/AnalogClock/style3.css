@@ -1,0 +1,68 @@
+body{
+    padding: 0;
+    margin: 0;
+    background: url(background.png) no-repeat center center fixed;
+    background-size: cover;
+}
+.clock{
+    height: 320px;
+    width: 320px;
+    background-color: rgba(255,255,255,0.06);
+    position: absolute;
+    margin: auto;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    backdrop-filter: blur(20px);
+    border-radius: 50%;
+    border: 2px solid rgba(255,255,255,0.1);
+    box-shadow: 10px 10px 35px rgba(0,0,0,0.25);
+}
+img{
+    opacity: 0.6;
+}
+.hand{
+    position: absolute;
+    background-color: rgba(255,255,255,0.2);
+    backdrop-filter: blur(20px);
+    margin: auto;
+    left: 0;
+    right: 0;
+    border-radius: 5px;
+    transform-origin: bottom;
+}
+.hour{
+    height: 60px;
+    width: 10px;
+    top: 100px;
+}
+.minute{
+    height: 80px;
+    width: 5px;
+    top: 80px;
+}
+.seconds{
+    height: 90px;
+    width: 3px;
+    top: 70px;
+}
+
+.social-icons {
+    display: flex;
+    gap: 10px; /* Adjust the gap between social icons */
+    position: absolute;
+    bottom: 20px; /* Adjust the distance from the bottom */
+    z-index: 4;
+    left: 46.5%;
+  }
+  
+  .social-icons img {
+    width: 40px; /* Adjust the size of the icons */
+    height: 40px;
+    transition: transform 0.2s ease; /* Add a smooth transition on hover */
+  }
+  
+  .social-icons img:hover {
+    transform: translateY(-5px); /* Move the icons up slightly on hover */
+  }

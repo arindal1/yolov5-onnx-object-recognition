@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Glassmorphism Clock</title>
+    <link rel="stylesheet" href="style3.css">
+    <link rel = "icon" href = "icon2.png" type = "image/x-icon">
+</head>
+<body>
+    <div class="clock">
+        <img src="clock template3.svg" alt="clock_img">
+        <div class="hour hand" id="hour"></div>
+        <div class="minute hand" id="minute"></div>
+        <div class="seconds hand" id="seconds"></div>
+    </div>
+    <div class="social-icons">
+        <a href="https://instagram.com/arindxl?igshid=MzRlODBiNWFlZA==" target="_blank"><img src="instagram.png" alt="instagram"></a>
+        <a href="https://github.com/arindal1/CSS-Piano-Keys" target="_blank"><img src="github.png" alt="github"></a>
+        <a href="https://www.linkedin.com/in/arindalchar/" target="_blank"><img src="linkedin.png" alt="linkedin"></a>
+      </div>
+<script>
+    var hour = document.getElementById("hour");
+    var minute = document.getElementById("minute");
+    var seconds = document.getElementById("seconds");
+
+    var set_clock = setInterval(function clock(){
+        var date_now = new Date();
+        var hr = date_now.getHours();
+        var min = date_now.getMinutes();
+        var sec = date_now.getSeconds();
+
+        var calc_hr = (hr * 30) + (min / 2);
+        var calc_min = (min * 6) + (sec / 10);
+        var calc_sec = sec*6;
+
+        hour.style.transform = 'rotate(' + calc_hr + "deg)";
+        minute.style.transform = 'rotate(' + calc_min + 'deg)';
+        seconds.style.transform = 'rotate(' + calc_sec + 'deg)';
+    }, 1000);
+</script>
+</body>
+</html>
