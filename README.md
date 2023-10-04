@@ -1,6 +1,14 @@
-# YOLOv5 Object Detection with OpenCV
+<div class="center-text">
+   <h1>YOLOv5 Object Detection with OpenCV</h1><br>
+   <a href="https://hacktoberfest.com/" target="_blank">
+      <img src="images/hack.jpg"></a>
+   <a href="https://github.com/arindal1" target="_blank">
+      <img src="images/git.jpg"></a>
+   <a href="https://twitter.com/arindal_17" target="_blank">
+      <img src="images/x.jpg"></a>
+</div>
 
-This repository contains Python code demonstrating how to perform object detection using the YOLOv5 model and OpenCV. The YOLOv5 model weights are used in the ONNX format for inference.
+This repository contains a project demonstrating object detection using the YOLOv5 model, integrated with OpenCV for image processing and Streamlit for a user-friendly interface. 
 
 ## Overview
 
@@ -47,6 +55,13 @@ Modify the script to work with your own images.
 5. Access the app through your web browser at the provided URL (usually http://localhost:8501).
    
 6. Drag and drop your Input image onto the box.
+
+## About this Project
+
+- Understand the code at: [ABOUT_THE_CODE.md](config/ABOUT_THE_CODE.md)
+- Understand the YOLO algorithm at: [ABOUT_YOLO.md](config/ABOUT_YOLO.md)
+- Understand the COCO Dataset at: [ABOUT_COCO.md](config/ABOUT_COCO.md)
+- About **Hacktober Fest 2023** at: [HACKTOBER_2023.md](config/HACKTOBER_2023.md)
 
 ## Acknowledgments
 
