@@ -77,5 +77,4 @@ Ensure that your contributions are properly tested. If the project has existing 
 
 ---
 
-Thank you for contributing!
-```
+### Thank you for contributing!
