@@ -1,4 +1,4 @@
-<div class="header">
+<div align="center">
    <h1>YOLOv5 Object Detection with OpenCV</h1><br>
    <a href="https://hacktoberfest.com/" target="_blank">
       <img src="images/hack.jpg"  width="80px"></a> <a href="https://github.com/arindal1" target="_blank">
@@ -6,8 +6,8 @@
       <img src="images/x.jpg"  width="80px"></a>
 </div>
 
-
-This repository contains a project demonstrating object detection using the YOLOv5 model, integrated with OpenCV for image processing and Streamlit for a user-friendly interface. It is `hacktober-accepted`, so you can make your Hacktober OpenSource contributions here. Read [CONTRIBUTIONS.md](CONTRIBUTIONS.md) for more info about contributing.
+This repository contains a project demonstrating object detection using the YOLOv5 model, integrated with OpenCV for image processing and Streamlit for a user-friendly interface. It is `hacktober-accepted`, so you can make your Hacktober OpenSource contributions here. Read [CONTRIBUTIONS.md](CONTRIBUTIONS.md) for more info about contributing. <br>
+Give this repo a ⭐ and contribute!
 
 ## Overview
 
