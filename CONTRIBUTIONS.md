@@ -3,7 +3,7 @@
 
 Welcome to the project! We're thrilled to have you here. To contribute, follow these guidelines to ensure a smooth and effective collaboration.
 
-## Getting Started
+## Getting Started 
 
 - Fork this repository by clicking on the "Fork" button on the top right of this page. This will create a copy of the repository under your GitHub account.
 
