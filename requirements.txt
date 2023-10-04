@@ -1,0 +1,16 @@
+# Base
+
+numpy>=1.22.2
+opencv-python>=4.1.1
+torch>=1.8.0  # see https://pytorch.org/get-started/locally (recommended)
+torchvision>=0.9.0
+
+# Plotting
+
+pandas>=1.1.4
+seaborn>=0.11.0
+
+# Export
+
+onnx>=1.10.0  # ONNX export
+# onnx-simplifier>=0.4.1  # ONNX simplifier
