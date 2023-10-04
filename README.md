@@ -1,8 +1,3 @@
-  <style>
-    .header {
-      text-align: center;
-    }
-  </style>
 <div class="header">
    <h1>YOLOv5 Object Detection with OpenCV</h1><br>
    <a href="https://hacktoberfest.com/" target="_blank">
