@@ -3,20 +3,6 @@
 
 Welcome to the project! We're thrilled to have you here. To contribute, follow these guidelines to ensure a smooth and effective collaboration.
 
-## Table of Contents
-
-- [Getting Started](#getting-started)
-  - [Fork the Repository](#fork-the-repository)
-  - [Clone the Repository](#clone-the-repository)
-- [Making Contributions](#making-contributions)
-  - [Create a New Branch](#create-a-new-branch)
-  - [Make Changes](#make-changes)
-  - [Commit Changes](#commit-changes)
-  - [Push Changes](#push-changes)
-- [Submitting a Pull Request](#submitting-a-pull-request)
-- [Code Style and Guidelines](#code-style-and-guidelines)
-- [Testing](#testing)
-
 ## Getting Started
 
 ### Fork the Repository
@@ -45,7 +31,8 @@ Replace `your-feature` with an appropriate name for your feature or fix.
 
 ### Make Changes
 
-Make your changes to the codebase. Ensure you follow the project's coding standards and guidelines.
+- Make your changes to the codebase. Ensure you follow the project's coding standards and guidelines.
+- If you're participating in Hacktober 2023, please follow Hacktober's PR Guidelines.
 
 ### Commit Changes
 
