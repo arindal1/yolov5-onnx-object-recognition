@@ -1,13 +1,32 @@
 <!--
-Thank you for submitting a YOLOv5 🚀 Pull Request! We want to make contributing to YOLOv5 as easy and transparent as possible. A few tips to get you started:
+Thank you for submitting a Pull Request! I want to make contributing to this repo as easy and transparent as possible. A few tips to get you started:
 
-- Search existing YOLOv5 [PRs](https://github.com/ultralytics/yolov5/pull) to see if a similar PR already exists.
-- Link this PR to a YOLOv5 [issue](https://github.com/ultralytics/yolov5/issues) to help us understand what bug fix or feature is being implemented.
+- Search existing [PRs] to see if a similar PR already exists.
+- Link this PR to a [issue] to help us understand what bug fix or feature is being implemented.
 - Provide before and after profiling/inference/training results to help us quantify the improvement your PR provides (if applicable).
-
-Please see our ✅ [Contributing Guide](https://docs.ultralytics.com/help/contributing) for more details.
 
 Note that Copilot will summarize this PR below, do not modify the 'copilot:all' line.
 -->
 
-copilot:all
+# Pull Request
+
+## Proposed Changes
+
+Describe the changes you've made. Include any context or related issues.
+
+## Checklist
+
+- [ ] I have followed the [contributing guidelines](CONTRIBUTING.md).
+- [ ] I have checked for any existing related issues and linked them in the description.
+- [ ] I have made my changes in a new branch.
+- [ ] My code follows the project's coding style and guidelines.
+- [ ] I have written tests for my changes (if applicable).
+- [ ] All new and existing tests passed.
+
+## Screenshots (if applicable)
+
+Add any screenshots or images that help showcase the changes you've made.
+
+## Additional Notes
+
+Add any additional information or context that may be relevant to this pull request.
