@@ -94,6 +94,10 @@ If you have any questions or suggestions related to this project, you can reach 
 - [OpenCV](https://docs.opencv.org/)
 - [StreamLit](https://docs.streamlit.io/)
 - [YOLO Article](https://pjreddie.com/darknet/yolo/)
+
+## Contributors
+
+<a href="https://github.com/arindal1" target="_blank"><img src="https://github.com/arindal1.png" width="30px" height="30" style="border-radius: 50%;"></a> <a href="https://github.com/simanders" target="_blank"><img src="https://github.com/simanders.png" width="30px" height="30" style="border-radius: 50%;"></a>
   
 **Note:** This is a personal project created for educational and demonstrative purposes. I made this project just to learn more about the YOLO model. Feel free to contribute and help me make this project even better.
 
