@@ -1,13 +1,16 @@
-<div class="header">
+<div align="center">
    <h1>YOLOv5 Object Detection with OpenCV</h1><br>
    <a href="https://hacktoberfest.com/" target="_blank">
       <img src="images/hack.jpg"  width="80px"></a> <a href="https://github.com/arindal1" target="_blank">
       <img src="images/git.jpg"  width="80px"></a> <a href="https://twitter.com/arindal_17" target="_blank">
       <img src="images/x.jpg"  width="80px"></a>
+   <p>Give this repo a ⭐ and contribute!</p>
 </div>
+<br>
 
 
-This repository contains a project demonstrating object detection using the YOLOv5 model, integrated with OpenCV for image processing and Streamlit for a user-friendly interface. It is `hacktober-accepted`, so you can make your Hacktober OpenSource contributions here. Read [CONTRIBUTIONS.md](CONTRIBUTIONS.md) for more info about contributing.
+This repository contains a project demonstrating object detection using the YOLOv5 model, integrated with OpenCV for image processing and Streamlit for a user-friendly interface. It is `hacktober-accepted`, so you can make your Hacktober OpenSource contributions here. Read [CONTRIBUTIONS.md](CONTRIBUTIONS.md) for more info about contributing. <br>
+
 
 ## Overview
 
@@ -94,6 +97,10 @@ If you have any questions or suggestions related to this project, you can reach 
 - [OpenCV](https://docs.opencv.org/)
 - [StreamLit](https://docs.streamlit.io/)
 - [YOLO Article](https://pjreddie.com/darknet/yolo/)
+
+## Contributors
+
+<a href="https://github.com/arindal1" target="_blank"><img src="https://github.com/arindal1.png" width="50px" height="50" style="border-radius: 50%;"></a> <a href="https://github.com/simanders" target="_blank"><img src="https://github.com/simanders.png" width="50px" height="50" style="border-radius: 50%;"></a>
   
 **Note:** This is a personal project created for educational and demonstrative purposes. I made this project just to learn more about the YOLO model. Feel free to contribute and help me make this project even better.
 
