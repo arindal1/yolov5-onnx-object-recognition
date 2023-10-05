@@ -1,10 +1,11 @@
 <div align="center">
    <h1>YOLOv5 Object Detection with OpenCV</h1><br>
    <a href="https://hacktoberfest.com/" target="_blank">
-      <img src="images/hack.jpg"  width="80px"></a> <a href="https://github.com/arindal1" target="_blank">
-      <img src="images/git.jpg"  width="80px"></a> <a href="https://twitter.com/arindal_17" target="_blank">
-      <img src="images/x.jpg"  width="80px"></a>
+      <img src="images/hack.jpg"  width="80px" alt="hacktober"></a> <a href="https://github.com/arindal1" target="_blank">
+      <img src="images/git.jpg"  width="80px" alt="github"></a> <a href="https://twitter.com/arindal_17" target="_blank">
+      <img src="images/x.jpg"  width="80px" alt="twitter"></a>
    <p>Give this repo a ⭐ and contribute!</p>
+   <img src="images/header2.jpg" alt="header image">
 </div>
 <br>
 
