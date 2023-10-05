@@ -52,4 +52,4 @@ bms.scatter(5, 1); // return False
 
 ### BY: simanders
 [Github](https://github.com/simanders)
-![simanders](https://github.com/simanders.png)
+
