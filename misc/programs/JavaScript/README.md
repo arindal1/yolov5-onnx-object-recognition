@@ -2,10 +2,10 @@
 
 This directory contains multiple JavaScript codes, from `beginner`, to `medium`, to `hard`, and till `expert` difficulty.
 
-**L-B**: Level Beginner
-**L-M**: Level Medium
-**L-H**: Level Hard
-**L-E**: Level Expert
+**L-B**: Level Beginner <br>
+**L-M**: Level Medium <br>
+**L-H**: Level Hard <br>
+**L-E**: Level Expert <br>
 
 Add your JavaScript solutions, from different platforms into this directory.
 
