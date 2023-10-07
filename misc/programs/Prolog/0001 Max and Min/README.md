@@ -1,4 +1,4 @@
-# Max and Min of two numbers
+# Max and Min of two numbers [L-B]
 
 Here we will see one Prolog program, that can find the `minimum` of two numbers and the `maximum` of two numbers. First, we will create two predicates, `find_max(X,Y,Max)`. This takes X and Y values, and stores the maximum value into the `Max`. Similarly `find_min(X,Y,Min)` takes X and Y values, and store the minimum value into the `Min` variable.
 
