@@ -101,8 +101,7 @@ If you have any questions or suggestions related to this project, you can reach 
 
 <div align="center">
 <h1>⚙️ The Contributors ⚙️</h1><br>
-<a href="https://github.com/arindal1" target="_blank"><img src="https://github.com/arindal1.png" width="50px" height="50" style="border-radius: 50%;"></a>  <a href="https://github.com/simanders" target="_blank"><img src="https://github.com/simanders.png" width="50px" height="50" style="border-radius: 50%;"></a>  <a href="https://github.com/Shback007" target="_blank"><img src="https://github.com/Shback007.png" width="50px" height="50" style="border-radius: 50%;"></a>  <a href="https://github.com/AnuragM23" target="_blank"><img src="https://github.com/AnuragM23.png" width="50px" height="50" style="border-radius: 50%;"></a>
-</div>  <a href="https://github.com/mahimairaja" target="_blank"><img src="https://github.com/mahimairaja.png" width="50px" height="50" style="border-radius: 50%;"></a>
+<a href="https://github.com/arindal1" target="_blank"><img src="https://github.com/arindal1.png" width="50px" height="50" style="border-radius: 50%;"></a>  <a href="https://github.com/simanders" target="_blank"><img src="https://github.com/simanders.png" width="50px" height="50" style="border-radius: 50%;"></a>  <a href="https://github.com/Shback007" target="_blank"><img src="https://github.com/Shback007.png" width="50px" height="50" style="border-radius: 50%;"></a>  <a href="https://github.com/AnuragM23" target="_blank"><img src="https://github.com/AnuragM23.png" width="50px" height="50" style="border-radius: 50%;"></a>  <a href="https://github.com/mahimairaja" target="_blank"><img src="https://github.com/mahimairaja.png" width="50px" height="50" style="border-radius: 50%;"></a>
 </div>
 
 ---
