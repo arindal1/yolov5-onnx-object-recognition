@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Space-Invaders</title>
+    <style>
+        body{
+            display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        height: 100vh;
+        margin: 0;
+        background-color: rgb(0, 8, 97);
+        color: white;
+        font-family: Arial, sans-serif;
+        }
+        #scoreEl {
+    font-size: 24px;
+}
+    </style>
+</head>
+<body>
+    <div style="position: relative;">
+        <p style="position: absolute; z-index: 10; color: white; left: 10px; top: 10px; margin: 0; font-family: sans-serif; font-size: 14px;"><span>Score :</span> <span id ="scoreEl">0</span></p>
+        <canvas></canvas>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
