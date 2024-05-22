@@ -15,6 +15,11 @@ const contributors = [
     name:'Sagnik Hore',
     avatarUrl:'https://github.com/Shback007.png',
     githubLink:'https://github.com/Shback007'
+  },
+  {
+    name:'Anurag Mahato',
+    avatarUrl:'https://github.com/AnuragM23.png',
+    githubLink:'https://github.com/AnuragM23'
   }
   // Add more contributors as needed
 ];
