@@ -14,5 +14,5 @@ seaborn>=0.11.0
 
 onnx>=1.16.2  # ONNX export
 # onnx-simplifier>=0.4.1  # ONNX simplifier
-requests>=2.32.0 # not directly required, pinned by Snyk to avoid a vulnerability
+requests>=2.33.1 # not directly required, pinned by Snyk to avoid a vulnerability
 setuptools>=70.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
