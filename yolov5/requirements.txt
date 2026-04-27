@@ -11,7 +11,7 @@ psutil  # system resources
 PyYAML>=5.3.1
 requests>=2.32.2
 scipy>=1.4.1
-thop>=0.1.1  # FLOPs computation
+thop>=0.1.1.post2209072238  # FLOPs computation
 torch>=2.10.0  # see https://pytorch.org/get-started/locally (recommended)
 torchvision>=0.9.0
 tqdm>=4.64.0
