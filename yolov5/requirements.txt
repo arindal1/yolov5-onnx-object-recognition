@@ -5,7 +5,7 @@
 gitpython>=3.1.30
 matplotlib>=3.3
 numpy>=1.22.2
-opencv-python>=4.1.1
+opencv-python>=4.13.0.92
 Pillow>=10.3.0
 psutil  # system resources
 PyYAML>=5.3.1
